@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/glEsCapsViewer.iml" filepath="$PROJECT_DIR$/glEsCapsViewer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/glEsCapsViewer.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/glEsCapsViewer.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/glEsCapsViewer.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/glEsCapsViewer.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/glEsCapsViewer.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/glEsCapsViewer.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/glEsCapsViewer.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/glEsCapsViewer.app.unitTest.iml" />
     </modules>
   </component>
 </project>
